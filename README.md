@@ -9,6 +9,8 @@ Please have a look at [MotionCanvasPlayerProps](https://github.com/motion-canvas
 
 The included dist files are examples and are not minified.
 
+Important: For the best integration, it is preferred to include the modules as npm packages in your project.
+
 
 ## Build and Copy Dist Files
 Build and copy files to local *dist* directory: 
@@ -41,4 +43,3 @@ Note that the included project might not work with the specified version.
 
 ## Todos
 - Add example projects for other Motion Canvas versions
-- Add notes on other ways to include Motion Canvas in projects
