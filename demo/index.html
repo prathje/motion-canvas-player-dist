@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Motion Canvas Player Dist Demo</title>
+  <script type="importmap">
+    {
+      "imports": {
+        "@motion-canvas/core": "./dist/core.js"
+      }
+    }
+  </script>
+  <script type="module" src="./dist/player.js"></script>
+  <style>
+    body {
+      background: #181818;
+      color: #fff;
+      font-family: sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    motion-canvas-player {
+      border: 1px solid #fff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Motion Canvas Player Dist Demo</h1>
+  <!-- The project path is relative to the player.js file. -->
+  <motion-canvas-player
+    src="../project-3.17.2.js"
+    auto="true"
+  ></motion-canvas-player>
+</body>
+</html>
+
