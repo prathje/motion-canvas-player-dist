@@ -24,9 +24,9 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
   mod
 ));
 
-// ../../node_modules/chroma-js/chroma.js
+// ../../chroma-js/chroma.js
 var require_chroma = __commonJS({
-  "../../node_modules/chroma-js/chroma.js"(exports, module) {
+  "../../chroma-js/chroma.js"(exports, module) {
     (function(global, factory) {
       typeof exports === "object" && typeof module !== "undefined" ? module.exports = factory() : typeof define === "function" && define.amd ? define(factory) : (global = typeof globalThis !== "undefined" ? globalThis : global || self, global.chroma = factory());
     })(exports, function() {

@@ -2,7 +2,7 @@
 
 This project builds and bundles the Motion Canvas Player so that it can easily be included in other projects or homepages.
 Note that this does not build the actual project which needs to be built seperately.
-Though an example project built for version 3.17.2 is included in the demo.
+Though, an example project built for version 3.17.2 is included in the demo.
 
 See [index.html](demo/index.html) for an exemplary usage.
 Please have a look at [MotionCanvasPlayerProps](https://github.com/motion-canvas/motion-canvas/blob/main/packages/player/types/main.d.ts) for the available attributes on the element.

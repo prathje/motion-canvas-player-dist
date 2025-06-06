@@ -141,7 +141,7 @@ class w extends HTMLElement {
     }
     this.defaultSettings = a.meta.getFullRenderingSettings();
     const i = new b(a);
-    i.setVariables(this.variables), this.finished = !1, (l = this.player) == null || l.onRender.unsubscribe(this.render), (h = this.player) == null || h.togglePlayback(!1), (d = this.player) == null || d.deactivate(), this.project = a, this.player = i, this.updateSettings(), this.player.onRender.subscribe(this.render), this.player.togglePlayback(this.playing), this.player.logger.onLogged.subscribe(console.log), this.setState(
+    i.setVariables(this.variables), this.finished = !1, (l = this.player) == null || l.onRender.unsubscribe(this.render), (h = this.player) == null || h.togglePlayback(!1), (d = this.player) == null || d.deactivate(), this.project = a, this.player = i, this.updateSettings(), this.player.onRender.subscribe(this.render), this.player.togglePlayback(this.playing), this.setState(
       "ready"
       /* Ready */
     );
