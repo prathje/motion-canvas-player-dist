@@ -4,6 +4,8 @@ This project builds and bundles the Motion Canvas Player so that it can easily b
 Note that this does not build the actual project which needs to be built seperately.
 Though an example project built for version 3.17.2 is included in the demo.
 
+See [index.html](demo/index.html) for an exemplary usage.
+
 
 ## Build and Copy Dist Files
 Build and copy files to local *dist* directory: 
