@@ -1,6 +1,6 @@
 # Motion Canvas Player Dist
 
-This project builds and bundles the Motion Canvas Player so that it can easily be included in other projects or homepages.
+This project bundles the Motion Canvas Player so that it can easily be included in other projects or homepages.
 Note that this does not build the actual project which needs to be built seperately.
 Though, an example project built for version 3.17.2 is included in the demo.
 
