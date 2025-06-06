@@ -7,6 +7,8 @@ Though an example project built for version 3.17.2 is included in the demo.
 See [index.html](demo/index.html) for an exemplary usage.
 Please have a look at [MotionCanvasPlayerProps](https://github.com/motion-canvas/motion-canvas/blob/main/packages/player/types/main.d.ts) for the available attributes on the element.
 
+The included dist files are examples and are not minified.
+
 
 ## Build and Copy Dist Files
 Build and copy files to local *dist* directory: 
