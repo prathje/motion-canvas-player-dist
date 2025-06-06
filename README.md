@@ -35,5 +35,5 @@ docker build --target dist . -t mc_player_dist --build-arg MC_VERSION="3.18.0-al
 Note that the included project might not work with the specified version. 
 
 ## Todos
-- Add example projects for other MotionCanvas versions
-- Add notes on other ways to include MotionCanvas in projects
+- Add example projects for other Motion Canvas versions
+- Add notes on other ways to include Motion Canvas in projects
